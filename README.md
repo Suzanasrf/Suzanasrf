@@ -7,7 +7,7 @@
 ![Suzana GitHub stats](https://github-readme-stats.vercel.app/api?username=Suzanasrf&show_icons=true&theme=dracula)
 
 
-##Tecnologias que eu mais utilizo
+## Tecnologias que eu mais utilizo
 
 <div style = "display: inline_block"><br>
 

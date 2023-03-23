@@ -27,6 +27,9 @@
 
 
 <img align="center" src ="https://aleen42.github.io/badges/src/photoshop.svg">
+  4
+ <img align="center" src ="https://aleen42.github.io/badges/src/vuejs.svg">
+
 
 
 </div>

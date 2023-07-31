@@ -4,7 +4,7 @@
 
 
 
-![Suzana Fonte's GitHub stats](https://github-readme-stats.vercel.app/api?username=Suzanasrf&show_icons=true&theme=outrun)
+![Suzana Fonte's GitHub stats](https://github-readme-stats.vercel.app/api?username=suzanasrf&show_icons=true&theme=outrun)
 ## Tecnologias que eu mais utilizo
 
 <div style = "display: inline_block"><br>

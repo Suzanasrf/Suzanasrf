@@ -4,8 +4,7 @@
 
 
 
-[![Suzana Fontes's GitHub stats-Dark](https://github-readme-stats.vercel.app/api?username=suzanafontes&show_icons=true&theme=dark#gh-dark-mode-only)](https://github.com/anuraghazra/github-readme-stats#gh-dark-mode-only)
-
+![Suzana Fonte's GitHub stats](https://github-readme-stats.vercel.app/api?username=Suzanasrf&show_icons=true&theme=outrun)
 ## Tecnologias que eu mais utilizo
 
 <div style = "display: inline_block"><br>

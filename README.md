@@ -4,7 +4,7 @@
 
 
 
-![Suzana GitHub stats](https://github-readme-stats.vercel.app/api?username=Suzanasrf&show_icons=true&theme=outrun)
+![Suzana Fontes GitHub stats](https://github-readme-stats.vercel.app/api?username=suzana&fontes_icons=true&theme=outrun)
 
 
 ## Tecnologias que eu mais utilizo
